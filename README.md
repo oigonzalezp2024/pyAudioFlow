@@ -63,4 +63,4 @@ pip freeze > requirements.txt
 
 | Developer | codigo fuente | Presente en este proyecto en: | inplementado en: |
 |:--|:--|:--|:--|
-|Oscar Fernandez| oscarFernandez.md | pyAudioFlow.py | demo1.py |
+|Oscar Fernandez| [oscarFernandez.md](https://github.com/oigonzalezp2024/pyAudioFlow/blob/main/aportes.md) | [pyAudioFlow.py](https://github.com/oigonzalezp2024/pyAudioFlow/blob/main/pyAudioFlow.py) | [demo1.py](https://github.com/oigonzalezp2024/pyAudioFlow/blob/main/demo1.py) |
