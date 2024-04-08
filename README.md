@@ -59,6 +59,8 @@ pip freeze > requirements.txt
 | Paso 7 | Realice pruebas de rutina.                    |  |
 | Paso 8 | Finalice su gestión.                          | deactivate                            |
 
+***
+
 ### Reconocimiento al trabajo de dibulgación que hizo posible este código.
 
 | Developer | codigo fuente | Presente en este proyecto en: | inplementado en: |
