@@ -1,6 +1,5 @@
 
-# Ejemplo de uso de la librería Pyaudio,  
-por Oscar Fernandez:
+# Ejemplo de uso de la librería Pyaudio,  por Oscar Fernandez:
 
 <pre>
 import pyaudio
