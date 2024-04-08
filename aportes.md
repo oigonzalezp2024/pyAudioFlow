@@ -47,7 +47,7 @@ wf.writeframes(b''.join(frames))
 print(f"Audio guardado como '{OUTPUT_FILENAME}'")
 </pre>
 
-El anterior codigo ha sido simplificado en programacion orientaa a objetos en la clase: pyAudioFlow presente en pyAudioFlow.py
+El anterior código ha sido simplificado en programacion orientaa a objetos en la clase: pyAudioFlow presente en pyAudioFlow.py
 
 fuente:  
 https://codigospython.com/capturando-y-manipulando-audio-con-pyaudio-en-python/
